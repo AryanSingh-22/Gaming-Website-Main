@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Award-Winning Scroll Experience</h1>
 <p align="center">
-  <strong>Built and curated by Vedant Trivedi</strong> • Learn modern UI/UX animation by exploring and extending this project
+  <strong>Built and created by Aryan Singh</strong> • Learn modern UI/UX animation by exploring and extending this project
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ npm run dev
 
 👨‍💻 About Me
 
-Vedant Trivedi — MCA student and full-stack web developer building polished, animated experiences.
+Aryan Singh — Btech student and Mern-Stack developer building polished, animated experiences.
 I’m focused on combining frontend craftsmanship with modern animation to create interfaces that feel alive.
 Find more of my work on GitHub.
 
